@@ -1,0 +1,21 @@
+{
+  "name": "FEC",
+  "keywords": "BMS, CellComms, FEC",
+  "description": "Forward Error Correction for the CellComms library.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/spmp/FEC.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Jasper Mackenzie",
+      "email": "jasper.mackenzie@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
